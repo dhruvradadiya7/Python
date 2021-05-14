@@ -1,8 +1,6 @@
 # -----------------------------------------------------
 # Final Project
-# Written by: Dhruvkumar Radadiya (2092393)
-#             Vidhi Suthar (2093559)
-#             Janak Patel (2092733)
+# Written by: Dhruvkumar Radadiya
 # The purpose of this program to create a order management system for a pizza store
 # User will have options to add and update the orders and extract different information based on added orders.
 # -----------------------------------------------------
